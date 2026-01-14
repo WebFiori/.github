@@ -6,7 +6,7 @@ If you need help with WebFiori Framework, here are your options:
 
 ### GitHub Discussions
 
-For questions, ideas, and community support, please use [GitHub Discussions](https://github.com/WebFiori/webfiori/discussions).
+For questions, ideas, and community support, please use [GitHub Discussions](https://github.com/WebFiori/framework/discussions).
 
 ### Documentation
 
