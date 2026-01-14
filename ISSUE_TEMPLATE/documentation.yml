@@ -1,13 +1,12 @@
 name: Documentation Issue
 description: Report missing, unclear, or incorrect documentation
-title: "[Docs]: "
-labels: ["documentation", "needs-triage"]
+title: "docs(scope): "
 body:
   - type: textarea
     id: location
     attributes:
       label: Documentation Location
-      description: Where is the documentation issue? (URL or file path)
+      description: Where is the documentation issue? (URL, file path )
       placeholder: https://webfiori.com/docs/...
     validations:
       required: true
