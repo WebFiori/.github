@@ -127,22 +127,22 @@ Visit `http://localhost:8080` and you're ready to go! 🎉
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/discussion/discussion.png" width="60px"><br>
+
 <b>Discuss</b><br>
 <a href="https://github.com/WebFiori/webfiori/discussions">Join Discussions</a>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/issues/issues.png" width="60px"><br>
+
 <b>Report</b><br>
 <a href="https://github.com/WebFiori/.github/blob/main/SUPPORT.md">Report Issues</a>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="60px"><br>
+
 <b>Contribute</b><br>
 <a href="https://github.com/WebFiori/.github/blob/main/CONTRIBUTING.md">Contribute Code</a>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/star/star.png" width="60px"><br>
+
 <b>Support</b><br>
 <a href="https://github.com/WebFiori">Star Our Repos</a>
 </td>
