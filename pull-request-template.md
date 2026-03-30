@@ -6,8 +6,6 @@ Why is this change needed? Link issues, bugs, reports or user feedback
 
 ## Changes
 This pull request has following changes:
-- Change 1
-- Change 2
 
 ## How to test / verify
 Describe testing approach, if it uses unit tests, integration or manual.
@@ -18,19 +16,22 @@ Describe testing approach, if it uses unit tests, integration or manual.
 
 
 ## Breaking changes
-- [ ] No breaking changes
 - [ ] Yes (describe + migration notes below)
+      
+
 
 ### Migration notes (required if breaking)
 What do users need to change in thier code?
+> Note: If not applicable, just type "Not Applicable"
 
 ## Checklist
-- [ ] My commits follow Conventional Commits
-- [ ] The title of the pull request follow Conventional Commits
+- [ ] My commits follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [ ] The title of the pull request follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [ ] I added/updated tests (or explained why not)
 - [ ] I updated docs (if needed)
 - [ ] I ran lint/cs-fixer (if applicable)
-- [ ] I considered backward compatibility and security
+- [ ] I considered backward compatibility
+- [ ] I considered security
 
 ## Related issues
 This pull request will close following issues:
