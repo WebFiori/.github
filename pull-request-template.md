@@ -1,32 +1,34 @@
 # Summary
-What does this PR change? Keep it short and concrete.
+<!-- e.g. Adds support for OAuth2 login via Google provider. -->
 
 ## Motivation
-Why is this change needed? Link issues, bugs, reports or user feedback
+<!-- e.g. Users reported they couldn't log in using Google accounts. Fixes #42. -->
 
 ## Changes
-This pull request has following changes:
+<!-- e.g.
+- Added `OAuthProvider` class
+- Updated `LoginController` to handle OAuth callback
+-->
 
-## How to test / verify
+## UI Changes
+<!-- If this PR includes UI changes, add screenshots or screen recordings below. Otherwise, delete this section. -->
+
+## How to Test / Verify
 Describe testing approach, if it uses unit tests, integration or manual.
-- [ ] Unit tests: `...`
-- [ ] Manual test steps:
-  1. ...
-  2. ...
 
 
-## Breaking changes
-- [ ] Yes (describe + migration notes below)
-      
+## Breaking Changes and Migration Steps
+<!-- If this PR contains breaking changes:
+  1. Add `!` to the PR title, e.g. `feat!: remove deprecated login endpoint`
+  2. Apply the `breaking-change` label to this PR
+  3. Describe what breaks and how to migrate below, otherwise write "None"
+-->
 
-
-### Migration notes (required if breaking)
-What do users need to change in thier code?
-> Note: If not applicable, just type "Not Applicable"
 
 ## Checklist
+- [ ] I reviewed my own diff before requesting review
 - [ ] My commits follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-- [ ] The title of the pull request follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [ ] The title of the pull request follows [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [ ] I added/updated tests (or explained why not)
 - [ ] I updated docs (if needed)
 - [ ] I ran lint/cs-fixer (if applicable)
@@ -34,6 +36,4 @@ What do users need to change in thier code?
 - [ ] I considered security
 
 ## Related issues
-This pull request will close following issues:
-- Closes #1
-- Closes #2
+<!-- e.g. Closes #42 . If None, type "Not Applicable"-->
