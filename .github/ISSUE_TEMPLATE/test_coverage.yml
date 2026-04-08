@@ -1,0 +1,39 @@
+name: Test Coverage
+description: Track missing test coverage for a class or file
+title: "test(scope): Add tests for "
+labels: ["testing", "needs-triage"]
+body:
+  - type: input
+    id: file
+    attributes:
+      label: File
+      description: Path to the file relative to WebFiori/Framework/
+      placeholder: e.g., Router/Router.php
+    validations:
+      required: true
+
+  - type: input
+    id: coverage
+    attributes:
+      label: Current Coverage
+      description: Coverage percentage at the time of filing
+      placeholder: e.g., 0% (0/484)
+    validations:
+      required: true
+
+  - type: textarea
+    id: scenarios
+    attributes:
+      label: Scenarios to Cover
+      description: List the key behaviors or code paths that need tests
+      placeholder: |
+        - [ ] Scenario 1
+        - [ ] Scenario 2
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Any additional context, dependencies, or setup required
