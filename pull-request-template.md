@@ -28,7 +28,6 @@ Describe testing approach, if it uses unit tests, integration or manual.
 ## Checklist
 - [ ] I reviewed my own diff before requesting review
 - [ ] My commits follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-- [ ] The title of the pull request follows [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [ ] I added/updated tests (or explained why not)
 - [ ] I updated docs (if needed)
 - [ ] I ran lint/cs-fixer (if applicable)
