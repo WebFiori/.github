@@ -29,8 +29,8 @@ Describe testing approach, if it uses unit tests, integration or manual.
 - [ ] I reviewed my own diff before requesting review
 - [ ] My commits follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [ ] I added/updated tests (or explained why not)
-- [ ] I updated docs (if needed)
-- [ ] I ran lint/cs-fixer (if applicable)
+- [ ] I updated docs (if needed) [Docs Repo](https://github.com/WebFiori/docs)
+- [ ] I ran lint/cs-fixer (if applicable) (`composer fix-cs`)
 - [ ] I considered backward compatibility
 - [ ] I considered security
 
